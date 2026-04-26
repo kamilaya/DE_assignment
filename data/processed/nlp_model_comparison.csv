@@ -1,0 +1,4 @@
+Features,RMSE,R²
+Numerical only,0.4163,0.8496
+NLP only,1.3806,-0.6537
+Numerical + NLP,0.4415,0.8309
